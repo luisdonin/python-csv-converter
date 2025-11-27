@@ -4,7 +4,8 @@
 This was made for two API and Web Services assignments at UTFPR, Toledo, Parana, Brazil.
 
 ## How to use 
-clone this repo
+gh repo clone luisdonin/python-csv-converter
+cd python-csv-converter
 python3 main.py {file.csv} {file.json}
 
 ## Comments on the code and clutter
